@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: pet-details
+server:
+  port: 9090
